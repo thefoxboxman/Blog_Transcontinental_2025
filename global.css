@@ -102,12 +102,12 @@ select {
 /* Universal Selctor */
 * {
 	/* Colours */
-	--clr-accent-100: hsl(68, 74%, 45%); /* #b1c91e*/
+	--clr-accent-100: hsl(48, 100%, 50%); /* #FFCD00*/
 	--clr-accent-200: hsl(116, 49%, 40%); /* #49a942 */
-	--clr-accent-300: hsl(68, 83%, 26%); /* #b1c91e */
+	--clr-accent-300: hsl(14, 100%, 57%); /*#ff5722 */
 
-	--clr-primary-400: hsl(24, 71%, 55%); /* #f17524 */
-	--clr-primary-500: hsl(190, 100%, 33%); /* #008da8 */
+	--clr-primary-400: hsl(148, 100%, 26%); /* #00843D */
+	--clr-primary-500: hsl(199, 92%, 85%); /* #b3e5fc */
 
 	--clr-neutral-100: hsl(45,29%,97%); /* #FAF9F6 */
 	--clr-neutral-900: hsl(200,30%,8%); /* #0E161A */
@@ -125,18 +125,18 @@ h1 {
 	font-family: var(--ff-featured);
 	font-size: var(--s3);
 	font-weight:700;
-	color: var(--clr-accent-300);
+	color: var(--clr-accent-100);
 }
 
 h2 {
 	font-family: var(--ff-featured);
 	font-size: var(--s2);
-	color: var(--clr-primary-500);
+	color: var(--clr-accent-100);
 }
 h3 {
 	font-family: var(--ff-featured);
 	font-size: var(--s1);
-	color: var(--clr-accent-200);
+	color: var(--clr-accent-100);
 }
 h4 {
 	font-family: var(--ff-featured);
