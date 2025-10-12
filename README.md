@@ -6,10 +6,9 @@ https://trans-continental-2025.netlify.app/
 
 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ff427271-4a2b-4ab1-8b3b-fb08bdb0368c/deploy-status)](https://app.netlify.com/projects/trans-continental-2025/deploys)
 
 
 
 
 
-
-<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/8f010b91-95fe-4eb4-af2b-d5293a1e8dc4/deploy-status)](https://app.netlify.com/projects/south-west-wa-2025/deploys) -->
