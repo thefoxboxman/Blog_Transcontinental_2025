@@ -92,7 +92,7 @@ button {
   background-color: var(--clr-primary-400);
   
   /* add shodow to all buttons */
-  box-shadow: 5px 5px 5px var(--clr-accent-300);
+  box-shadow: 5px 5px 5px var(--clr-neutral-900);
 
   color: var(--clr-primary-500);
   padding: 14px 25px;
@@ -121,16 +121,19 @@ button:hover {
   text-align: center;
   background-color: var(--clr-accent-300);
   border: solid 2px var(--clr-primary-400);
-  box-shadow: 5px 5px 5px var(--clr-primary-400);
+  box-shadow: 5px 5px 5px var(--clr-neutral-900);
   border-radius: 15px;
 }
 
 .post-sub-title {
   text-align: center;
-  margin-top: 2em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 0.25em 1em;
+  color: var(--clr-neutral-900);
   background-color: var(--clr-accent-100);
-  border: solid 2px var(--clr-primary-400);
-  box-shadow: 5px 5px 5px var(--clr-primary-400);
+  border: solid 2px var(--clr-neutral-900);
+  box-shadow: 5px 5px 5px var(--clr-neutral-900);
   border-radius: 10px;
 }
 
